@@ -1,0 +1,14 @@
+.a-color {
+  color: #aaaaaa;
+}
+.w-95 {
+  width: 95%;
+}
+.form-group input {
+  border: 1px solid #adaaaa;
+}
+.webwell {
+  background-image: linear-gradient(#eee, #fff);
+  margin: 20px 0;
+  padding: 20px;
+}
