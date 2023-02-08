@@ -12,3 +12,11 @@
   margin: 20px 0;
   padding: 20px;
 }
+#required1,
+#required2,
+#existName {
+  background-color: #ffb2b2;
+  color: #6d0000;
+  border: 1px solid #6d0000;
+  display: none;
+}
