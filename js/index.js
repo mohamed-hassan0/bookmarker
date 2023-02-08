@@ -24,7 +24,7 @@ function addBookMark() {
       clearForm();
       displaybookMark();
     }
-
+    document.getElementById("existName").style.display = "none";
     document.getElementById("required1").style.display = "none";
     document.getElementById("required2").style.display = "none";
   } else if (
